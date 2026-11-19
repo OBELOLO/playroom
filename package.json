@@ -1,0 +1,12 @@
+{
+  "name": "lan-games",
+  "version": "1.0.0",
+  "description": "Local LAN multiplayer game hub (1v1 / 2v2)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
